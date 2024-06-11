@@ -19,11 +19,11 @@ red = (255, 0, 0)
 player_size = 50
 player_x = width // 2 - player_size // 2
 player_y = height - 2 * player_size
-player_speed = 5
+player_speed = 15
 
 # Set up bullet
 bullet_size = 10
-bullet_speed = 10
+bullet_speed = 1
 bullets = []
 
 # Set up enemy
